@@ -1,0 +1,17 @@
+﻿<Window x:Class="Adding_the_sum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Adding_the_sum"
+        mc:Ignorable="d"
+        Title="Сложение суммы" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="tbSum1" HorizontalAlignment="Left" Height="25" Margin="29,43,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="tbSum2" HorizontalAlignment="Left" Height="25" Margin="29,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="152"/>
+        <Label Content="Введите первое число" HorizontalAlignment="Left" Margin="29,17,0,0" VerticalAlignment="Top"/>
+        <Label Content="Введите второе число" HorizontalAlignment="Left" Margin="29,83,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSum" Content="Посчитать" HorizontalAlignment="Left" Margin="29,158,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+
+    </Grid>
+</Window>

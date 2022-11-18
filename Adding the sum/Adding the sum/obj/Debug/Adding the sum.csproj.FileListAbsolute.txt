@@ -1,0 +1,15 @@
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\bin\Debug\Adding the sum.exe.config
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\bin\Debug\Adding the sum.exe
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\bin\Debug\Adding the sum.pdb
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\MainWindow.g.cs
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\App.g.cs
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum_MarkupCompile.cache
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum_MarkupCompile.lref
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\MainWindow.baml
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.g.resources
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding_the_sum.Properties.Resources.resources
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.exe
+C:\Users\alexd\Desktop\Учеба\WPF\Adding the sum\Adding the sum\obj\Debug\Adding the sum.pdb
